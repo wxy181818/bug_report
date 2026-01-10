@@ -8,7 +8,7 @@ vendor: https://code-projects.org/online-reviewer-system-in-php-with-source-code
 
 Vulnerability url: http://ip/reviewer/system/system/admins/assessments/databank/question-update.php?id=233
 
-Loophole location： Arbitrary file upload vulnerability exists in syetem logo upload point in system info (RCE)
+Loophole location： Arbitrary file upload vulnerability exists in syetem image upload point in system info (RCE)
 
 Request package for file upload：
 
