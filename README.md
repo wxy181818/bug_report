@@ -1,2 +1,2 @@
 # bug_report
-my cve
+MY CVE
